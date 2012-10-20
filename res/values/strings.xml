@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">WIFI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_wifi_app">WifiApp</string>
+    <string name="button_do_scan">Do Scan</string>
+
+</resources>
