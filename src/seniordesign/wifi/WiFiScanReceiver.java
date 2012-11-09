@@ -9,7 +9,6 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.net.wifi.ScanResult;
-import android.util.Log;
 
 
 public class WiFiScanReceiver extends BroadcastReceiver {
